@@ -1,4 +1,5 @@
 # Unreal Engine 3
+![](https://github.com/nondejus/unrealengine3/blob/master/Unreal-Engine-Logo.jpg)
 Early build of Unreal Engine 3. Only for non-commercial.
 
 Build the engine:
